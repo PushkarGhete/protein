@@ -4,6 +4,7 @@
   "type": "module",
   "scripts": {
     "dev": "node --watch src/index.js",
+    "build": "node --check src/index.js",
     "start": "node src/index.js",
     "reseed": "node src/reseed.js"
   },
