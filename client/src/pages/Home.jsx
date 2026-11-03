@@ -43,7 +43,7 @@ export function Home() {
               <span> grind.</span>
             </h1>
             <p className="lede light">
-              Genuine tubs from the Karale Layout counter. Whey, gainers, creatine and pre-workout, delivered in Buldhana or picked up the same day.
+              Genuine tubs from the Karale Layout counter by <strong>Vijay Damode</strong>. Whey, gainers, creatine and pre-workout, delivered in Buldhana or picked up the same day.
             </p>
             <div className="hero-actions">
               <Link className="btn btn-gold" to="/shop">Shop products</Link>
@@ -128,7 +128,7 @@ export function Home() {
         <div>
           <p className="eyebrow">The counter</p>
           <h2>Strong brand. Honest shop.</h2>
-          <p>Majboot is Vijay Damode’s counter in Buldhana for Legendary Sports Nutrition. The tub you order is the tub on the shelf in Karale Layout.</p>
+          <p>Majboot is the Buldhana counter for Legendary Sports Nutrition. The tub you order is the tub on the shelf in Karale Layout.</p>
           <ul>
             <li><strong>Authorised distributor</strong><span>Same products the brand lists.</span></li>
             <li><strong>Cash on delivery</strong><span>Pay the rider, or pay at the counter.</span></li>
