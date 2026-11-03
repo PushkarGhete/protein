@@ -1,0 +1,1067 @@
+[
+  {
+    "handle": "citrulline-malate",
+    "title": "Citrulline Malate For Enhanced Endurance & Pump",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0938/6934/3021/files/Citrulline_Malate_For_Enhanced_Endurance__Pump_35_c9173a57cddf89df4866df1a29ade998.webp?v=1764795815"
+    ],
+    "options": [
+      {
+        "name": "weight",
+        "position": 1,
+        "values": [
+          "100g"
+        ]
+      },
+      {
+        "name": "Flavor",
+        "position": 2,
+        "values": [
+          "Unflavored"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "flavour": "100g",
+        "weight": "Unflavored",
+        "price": 600,
+        "mrp": null,
+        "available": true,
+        "image": "https://cdn.shopify.com/s/files/1/0938/6934/3021/files/Citrulline_Malate_For_Enhanced_Endurance__Pump_35_c9173a57cddf89df4866df1a29ade998.webp?v=1764795815"
+      }
+    ],
+    "body": "Citrulline Malate is a powerful nitric-oxide boosting amino acid designed to increase blood flow, enhance muscle pumps, delay fatigue, and improve workout performance. Ideal for strength athletes, bodybuilders, and anyone who wants better endurance and pump during training."
+  },
+  {
+    "handle": "eaa",
+    "title": "EAA For Recovery, Hydration, & Performance",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0938/6934/3021/files/30.webp?v=1764795813"
+    ],
+    "options": [
+      {
+        "name": "Weight",
+        "position": 1,
+        "values": [
+          "450g"
+        ]
+      },
+      {
+        "name": "Flavour",
+        "position": 2,
+        "values": [
+          "Lychee"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "flavour": "450g",
+        "weight": "Lychee",
+        "price": 3000,
+        "mrp": null,
+        "available": true,
+        "image": "https://cdn.shopify.com/s/files/1/0938/6934/3021/files/30.webp?v=1764795813"
+      }
+    ],
+    "body": "LSN EAA is a complete essential amino acid formula designed to support muscle recovery, hydration, strength, and performance. It delivers all nine essential amino acids that your body cannot produce on its own, making it perfect for intra-workout or daily muscle repair."
+  },
+  {
+    "handle": "l-glutamine",
+    "title": "L-Glutamine",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0938/6934/3021/files/36.webp?v=1764795812"
+    ],
+    "options": [
+      {
+        "name": "Weight ",
+        "position": 1,
+        "values": [
+          "150g"
+        ]
+      },
+      {
+        "name": "Flavour",
+        "position": 2,
+        "values": [
+          "Unflavoured"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "flavour": "150g",
+        "weight": "Unflavoured",
+        "price": 960,
+        "mrp": null,
+        "available": true,
+        "image": "https://cdn.shopify.com/s/files/1/0938/6934/3021/files/36.webp?v=1764795812"
+      }
+    ],
+    "body": "LSN Glutamine is a pure recovery amino that helps muscle repair, supports glycogen replenishment, and reduces soreness after intense training"
+  },
+  {
+    "handle": "ultimate-bcaa",
+    "title": "Ultimate BCAA Performance And Hydration Support",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0938/6934/3021/files/32.webp?v=1764795809"
+    ],
+    "options": [
+      {
+        "name": "FLAVOUR",
+        "position": 1,
+        "values": [
+          "Raw Mango",
+          "Cola Crush",
+          "Punch Ice-Tea",
+          "Tropical Orange",
+          "Watermelon",
+          "Pinacolada"
+        ]
+      },
+      {
+        "name": "WEIGHT",
+        "position": 2,
+        "values": [
+          "300g"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "flavour": "Raw Mango",
+        "weight": "300g",
+        "price": 1770,
+        "mrp": null,
+        "available": true,
+        "image": "https://cdn.shopify.com/s/files/1/0938/6934/3021/files/32.webp?v=1764795809"
+      },
+      {
+        "flavour": "Cola Crush",
+        "weight": "300g",
+        "price": 1770,
+        "mrp": null,
+        "available": true,
+        "image": null
+      },
+      {
+        "flavour": "Punch Ice-Tea",
+        "weight": "300g",
+        "price": 1770,
+        "mrp": null,
+        "available": true,
+        "image": null
+      },
+      {
+        "flavour": "Tropical Orange",
+        "weight": "300g",
+        "price": 1770,
+        "mrp": null,
+        "available": true,
+        "image": null
+      },
+      {
+        "flavour": "Watermelon",
+        "weight": "300g",
+        "price": 1770,
+        "mrp": null,
+        "available": true,
+        "image": null
+      },
+      {
+        "flavour": "Pinacolada",
+        "weight": "300g",
+        "price": 1770,
+        "mrp": null,
+        "available": true,
+        "image": null
+      }
+    ],
+    "body": "Ultimate BCAA is a 2:1:1 amino blend with added glutamine and electrolytes for muscle recovery, hydration, strength, and reduced fatigue during workouts."
+  },
+  {
+    "handle": "creatine",
+    "title": "Creatine Monohydrate Micronised",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0938/6934/3021/files/14.webp?v=1764795798",
+      "https://cdn.shopify.com/s/files/1/0938/6934/3021/files/12.webp?v=1764795802",
+      "https://cdn.shopify.com/s/files/1/0938/6934/3021/files/13.webp?v=1764795803",
+      "https://cdn.shopify.com/s/files/1/0938/6934/3021/files/16.webp?v=1764795806",
+      "https://cdn.shopify.com/s/files/1/0938/6934/3021/files/15.webp?v=1764795807"
+    ],
+    "options": [
+      {
+        "name": "FLAVOUR",
+        "position": 1,
+        "values": [
+          "Unflavoured",
+          "Tangy Blast",
+          "Watermelon",
+          "Berry Blast",
+          "Lychee"
+        ]
+      },
+      {
+        "name": "WEIGHT",
+        "position": 2,
+        "values": [
+          "250g",
+          "300g"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "flavour": "Unflavoured",
+        "weight": "250g",
+        "price": 1599,
+        "mrp": 1600,
+        "available": true,
+        "image": "https://cdn.shopify.com/s/files/1/0938/6934/3021/files/14.webp?v=1764795798"
+      },
+      {
+        "flavour": "Tangy Blast",
+        "weight": "300g",
+        "price": 1599,
+        "mrp": 1600,
+        "available": false,
+        "image": "https://cdn.shopify.com/s/files/1/0938/6934/3021/files/12.webp?v=1764795802"
+      },
+      {
+        "flavour": "Watermelon",
+        "weight": "300g",
+        "price": 1600,
+        "mrp": 1699,
+        "available": false,
+        "image": "https://cdn.shopify.com/s/files/1/0938/6934/3021/files/13.webp?v=1764795803"
+      },
+      {
+        "flavour": "Berry Blast",
+        "weight": "300g",
+        "price": 1600,
+        "mrp": 1699,
+        "available": false,
+        "image": "https://cdn.shopify.com/s/files/1/0938/6934/3021/files/16.webp?v=1764795806"
+      },
+      {
+        "flavour": "Lychee",
+        "weight": "300g",
+        "price": 1599,
+        "mrp": 1600,
+        "available": false,
+        "image": "https://cdn.shopify.com/s/files/1/0938/6934/3021/files/15.webp?v=1764795807"
+      }
+    ],
+    "body": "LSN Creatine Monohydrate Micronised  is a pure, high-quality strength and performance booster that enhances muscle power, endurance, and recovery for all athletes \n What is Creatine and Why is it Important? \n Creatine is a naturally occurring compound found in muscle cells. It helps produce energy during high-intensity workouts or explosive activities. This supplement is essential for athletes bec"
+  },
+  {
+    "handle": "super-charge",
+    "title": "Super Charge Energy drink",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0938/6934/3021/files/33.webp?v=1764795797"
+    ],
+    "options": [
+      {
+        "name": "FLAVOUR",
+        "position": 1,
+        "values": [
+          "Lemon Lime Blast",
+          "Orange Blast",
+          "Pinacolada",
+          "Raw Mango",
+          "Watermelon"
+        ]
+      },
+      {
+        "name": "WEIGHT",
+        "position": 2,
+        "values": [
+          "300g"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "flavour": "Lemon Lime Blast",
+        "weight": "300g",
+        "price": 699,
+        "mrp": 700,
+        "available": true,
+        "image": "https://cdn.shopify.com/s/files/1/0938/6934/3021/files/33.webp?v=1764795797"
+      },
+      {
+        "flavour": "Orange Blast",
+        "weight": "300g",
+        "price": 699,
+        "mrp": 700,
+        "available": true,
+        "image": null
+      },
+      {
+        "flavour": "Pinacolada",
+        "weight": "300g",
+        "price": 699,
+        "mrp": 700,
+        "available": true,
+        "image": null
+      },
+      {
+        "flavour": "Raw Mango",
+        "weight": "300g",
+        "price": 699,
+        "mrp": 700,
+        "available": true,
+        "image": null
+      },
+      {
+        "flavour": "Watermelon",
+        "weight": "300g",
+        "price": 699,
+        "mrp": 700,
+        "available": true,
+        "image": null
+      }
+    ],
+    "body": "SuperCharge is a caffeine-free isotonic energy drink with electrolytes and Vitamin C to keep you hydrated, energized, and recovered during intense training."
+  },
+  {
+    "handle": "overdose-preworkout",
+    "title": "Overdose Pre-Workout",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0938/6934/3021/files/6.jpg?v=1765303492",
+      "https://cdn.shopify.com/s/files/1/0938/6934/3021/files/5.jpg?v=1765303492",
+      "https://cdn.shopify.com/s/files/1/0938/6934/3021/files/7.jpg?v=1765303492",
+      "https://cdn.shopify.com/s/files/1/0938/6934/3021/files/8.jpg?v=1765303492",
+      "https://cdn.shopify.com/s/files/1/0938/6934/3021/files/10.webp?v=1765303492",
+      "https://cdn.shopify.com/s/files/1/0938/6934/3021/files/9.webp?v=1765303545",
+      "https://cdn.shopify.com/s/files/1/0938/6934/3021/files/EC87EBAB-AB43-404C-837F-13F4F310317A.jpg?v=1765303545",
+      "https://cdn.shopify.com/s/files/1/0938/6934/3021/files/0184FF4D-214C-4CD3-B917-E3A30B22FE07.jpg?v=1765303545",
+      "https://cdn.shopify.com/s/files/1/0938/6934/3021/files/B61F838E-1900-4FC2-A4C4-32B458F08EF3.jpg?v=1765303545",
+      "https://cdn.shopify.com/s/files/1/0938/6934/3021/files/D6CAC442-D7A1-4C5F-8962-FCFD0B65360F.jpg?v=1765303545",
+      "https://cdn.shopify.com/s/files/1/0938/6934/3021/files/11.webp?v=1765303545",
+      "https://cdn.shopify.com/s/files/1/0938/6934/3021/files/18.jpg?v=1765303545",
+      "https://cdn.shopify.com/s/files/1/0938/6934/3021/files/13.jpg?v=1765303545",
+      "https://cdn.shopify.com/s/files/1/0938/6934/3021/files/15.jpg?v=1765303545",
+      "https://cdn.shopify.com/s/files/1/0938/6934/3021/files/20.jpg?v=1765303545",
+      "https://cdn.shopify.com/s/files/1/0938/6934/3021/files/10.jpg?v=1765303545",
+      "https://cdn.shopify.com/s/files/1/0938/6934/3021/files/11.jpg?v=1765303545",
+      "https://cdn.shopify.com/s/files/1/0938/6934/3021/files/17.jpg?v=1765303545",
+      "https://cdn.shopify.com/s/files/1/0938/6934/3021/files/19.jpg?v=1765303545",
+      "https://cdn.shopify.com/s/files/1/0938/6934/3021/files/14.jpg?v=1765303545",
+      "https://cdn.shopify.com/s/files/1/0938/6934/3021/files/16.jpg?v=1765303545",
+      "https://cdn.shopify.com/s/files/1/0938/6934/3021/files/9.jpg?v=1765303545",
+      "https://cdn.shopify.com/s/files/1/0938/6934/3021/files/21.jpg?v=1765303545",
+      "https://cdn.shopify.com/s/files/1/0938/6934/3021/files/22.jpg?v=1765301720",
+      "https://cdn.shopify.com/s/files/1/0938/6934/3021/files/12.jpg?v=1765301720"
+    ],
+    "options": [
+      {
+        "name": "FLAVOUR",
+        "position": 1,
+        "values": [
+          "Berry Blast",
+          "Green Apple",
+          "Citrus Blast",
+          "Tropical Margarita",
+          "Watermelon",
+          "Iced Tea"
+        ]
+      },
+      {
+        "name": "WEIGHT",
+        "position": 2,
+        "values": [
+          "300g",
+          "100g"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "flavour": "Berry Blast",
+        "weight": "300g",
+        "price": 2099,
+        "mrp": 3300,
+        "available": true,
+        "image": "https://cdn.shopify.com/s/files/1/0938/6934/3021/files/6.jpg?v=1765303492"
+      },
+      {
+        "flavour": "Green Apple",
+        "weight": "300g",
+        "price": 2099,
+        "mrp": 3300,
+        "available": true,
+        "image": "https://cdn.shopify.com/s/files/1/0938/6934/3021/files/5.jpg?v=1765303492"
+      },
+      {
+        "flavour": "Citrus Blast",
+        "weight": "300g",
+        "price": 2099,
+        "mrp": 3300,
+        "available": true,
+        "image": "https://cdn.shopify.com/s/files/1/0938/6934/3021/files/8.jpg?v=1765303492"
+      },
+      {
+        "flavour": "Citrus Blast",
+        "weight": "100g",
+        "price": 749,
+        "mrp": 1100,
+        "available": false,
+        "image": "https://cdn.shopify.com/s/files/1/0938/6934/3021/files/10.webp?v=1765303492"
+      },
+      {
+        "flavour": "Tropical Margarita",
+        "weight": "300g",
+        "price": 2099,
+        "mrp": 3300,
+        "available": true,
+        "image": "https://cdn.shopify.com/s/files/1/0938/6934/3021/files/9.webp?v=1765303545"
+      },
+      {
+        "flavour": "Tropical Margarita",
+        "weight": "100g",
+        "price": 749,
+        "mrp": 1100,
+        "available": true,
+        "image": "https://cdn.shopify.com/s/files/1/0938/6934/3021/files/11.webp?v=1765303545"
+      },
+      {
+        "flavour": "Watermelon",
+        "weight": "300g",
+        "price": 2099,
+        "mrp": 3300,
+        "available": true,
+        "image": "https://cdn.shopify.com/s/files/1/0938/6934/3021/files/9.webp?v=1765303545"
+      },
+      {
+        "flavour": "Iced Tea",
+        "weight": "300g",
+        "price": 2099,
+        "mrp": 3300,
+        "available": true,
+        "image": "https://cdn.shopify.com/s/files/1/0938/6934/3021/files/7.jpg?v=1765303492"
+      }
+    ],
+    "body": "Overdose is a high-stim explosive pre-workout with citrulline, beta-alanine, creatine HCL, arginine AKG, caffeine, and focus ingredients for maximum energy and pumps. \n What is Overdose Pre-Workout? \n Overdose Pre-Workout is a supplement designed to enhance your workout performance by providing an energy boost. This product contains a powerful blend of ingredients that help improve focus, enduranc"
+  },
+  {
+    "handle": "lean-muscle-builder",
+    "title": "Lean Muscle Builder Mass Gainer",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0938/6934/3021/files/27.webp?v=1764795779",
+      "https://cdn.shopify.com/s/files/1/0938/6934/3021/files/26.webp?v=1764795781"
+    ],
+    "options": [
+      {
+        "name": "FLAVOUR",
+        "position": 1,
+        "values": [
+          "Chocolate Truffle Milkshake",
+          "Cappuccino"
+        ]
+      },
+      {
+        "name": "WEIGHT",
+        "position": 2,
+        "values": [
+          "1kg",
+          "3kg",
+          "5kg"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "flavour": "Chocolate Truffle Milkshake",
+        "weight": "1kg",
+        "price": 1800,
+        "mrp": null,
+        "available": true,
+        "image": "https://cdn.shopify.com/s/files/1/0938/6934/3021/files/27.webp?v=1764795779"
+      },
+      {
+        "flavour": "Chocolate Truffle Milkshake",
+        "weight": "3kg",
+        "price": 4200,
+        "mrp": 4400,
+        "available": true,
+        "image": "https://cdn.shopify.com/s/files/1/0938/6934/3021/files/27.webp?v=1764795779"
+      },
+      {
+        "flavour": "Chocolate Truffle Milkshake",
+        "weight": "5kg",
+        "price": 7000,
+        "mrp": 7400,
+        "available": true,
+        "image": "https://cdn.shopify.com/s/files/1/0938/6934/3021/files/27.webp?v=1764795779"
+      },
+      {
+        "flavour": "Cappuccino",
+        "weight": "1kg",
+        "price": 1800,
+        "mrp": null,
+        "available": true,
+        "image": "https://cdn.shopify.com/s/files/1/0938/6934/3021/files/26.webp?v=1764795781"
+      },
+      {
+        "flavour": "Cappuccino",
+        "weight": "3kg",
+        "price": 1800,
+        "mrp": 4400,
+        "available": true,
+        "image": "https://cdn.shopify.com/s/files/1/0938/6934/3021/files/26.webp?v=1764795781"
+      },
+      {
+        "flavour": "Cappuccino",
+        "weight": "5kg",
+        "price": 7000,
+        "mrp": 7400,
+        "available": true,
+        "image": "https://cdn.shopify.com/s/files/1/0938/6934/3021/files/26.webp?v=1764795781"
+      }
+    ],
+    "body": "Lean Muscle Builder offers a balanced 1:3 protein-to-carb ratio with creatine and glutamine, ideal for gaining lean muscle without excess fat."
+  },
+  {
+    "handle": "massive-muscle",
+    "title": "Massive Muscle Mass Gainer",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0938/6934/3021/files/29.webp?v=1764795775",
+      "https://cdn.shopify.com/s/files/1/0938/6934/3021/files/28.webp?v=1764795776"
+    ],
+    "options": [
+      {
+        "name": "FLAVOUR",
+        "position": 1,
+        "values": [
+          "Chocolate",
+          "Cappuccino",
+          "Mango Milkshake"
+        ]
+      },
+      {
+        "name": "WEIGHT",
+        "position": 2,
+        "values": [
+          "1kg",
+          "3kg",
+          "5kg"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "flavour": "Chocolate",
+        "weight": "1kg",
+        "price": 1500,
+        "mrp": null,
+        "available": true,
+        "image": "https://cdn.shopify.com/s/files/1/0938/6934/3021/files/29.webp?v=1764795775"
+      },
+      {
+        "flavour": "Chocolate",
+        "weight": "3kg",
+        "price": 3699,
+        "mrp": 3900,
+        "available": true,
+        "image": "https://cdn.shopify.com/s/files/1/0938/6934/3021/files/29.webp?v=1764795775"
+      },
+      {
+        "flavour": "Chocolate",
+        "weight": "5kg",
+        "price": 6000,
+        "mrp": 6100,
+        "available": true,
+        "image": "https://cdn.shopify.com/s/files/1/0938/6934/3021/files/29.webp?v=1764795775"
+      },
+      {
+        "flavour": "Cappuccino",
+        "weight": "1kg",
+        "price": 1500,
+        "mrp": null,
+        "available": false,
+        "image": "https://cdn.shopify.com/s/files/1/0938/6934/3021/files/28.webp?v=1764795776"
+      },
+      {
+        "flavour": "Cappuccino",
+        "weight": "3kg",
+        "price": 3699,
+        "mrp": 3900,
+        "available": true,
+        "image": "https://cdn.shopify.com/s/files/1/0938/6934/3021/files/28.webp?v=1764795776"
+      },
+      {
+        "flavour": "Cappuccino",
+        "weight": "5kg",
+        "price": 6000,
+        "mrp": 6100,
+        "available": true,
+        "image": "https://cdn.shopify.com/s/files/1/0938/6934/3021/files/28.webp?v=1764795776"
+      },
+      {
+        "flavour": "Mango Milkshake",
+        "weight": "1kg",
+        "price": 1199,
+        "mrp": 1500,
+        "available": false,
+        "image": null
+      },
+      {
+        "flavour": "Mango Milkshake",
+        "weight": "3kg",
+        "price": 2999,
+        "mrp": 3699,
+        "available": false,
+        "image": null
+      },
+      {
+        "flavour": "Mango Milkshake",
+        "weight": "5kg",
+        "price": 4799,
+        "mrp": 6000,
+        "available": false,
+        "image": null
+      }
+    ],
+    "body": "This Massive Muscle Mass Gainer delivers a powerful 1:8 protein-to-carb ratio with 30 g protein and 230 g carbs per serving. Designed for hard gainers wanting serious size and weight gain."
+  },
+  {
+    "handle": "iso-90",
+    "title": "ISO 90 Whey Protein",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0938/6934/3021/files/19_a0737f20-aae5-4398-ae26-c1ed94791642.webp?v=1764795767",
+      "https://cdn.shopify.com/s/files/1/0938/6934/3021/files/17_d6091134-dd86-4472-9bae-1d4bf7965658.webp?v=1764795770",
+      "https://cdn.shopify.com/s/files/1/0938/6934/3021/files/18_d91a9002-4af0-43f0-9753-001975612faa.webp?v=1764795771",
+      "https://cdn.shopify.com/s/files/1/0938/6934/3021/files/20_dbcde09d-4bd3-4bc7-aed2-e34656ea9fef.webp?v=1764795774"
+    ],
+    "options": [
+      {
+        "name": "FLAVOUR",
+        "position": 1,
+        "values": [
+          "Chocolate Milkshake",
+          "Cookies & Cream",
+          "Hazelnut Mocha",
+          "Saffron Pistachio Kulfi",
+          "Birthday Cake"
+        ]
+      },
+      {
+        "name": "WEIGHT",
+        "position": 2,
+        "values": [
+          "1kg",
+          "2kg",
+          "4kg"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "flavour": "Chocolate Milkshake",
+        "weight": "1kg",
+        "price": 4650,
+        "mrp": 5100,
+        "available": false,
+        "image": null
+      },
+      {
+        "flavour": "Chocolate Milkshake",
+        "weight": "2kg",
+        "price": 8799,
+        "mrp": 10200,
+        "available": false,
+        "image": null
+      },
+      {
+        "flavour": "Chocolate Milkshake",
+        "weight": "4kg",
+        "price": 16000,
+        "mrp": 18600,
+        "available": false,
+        "image": null
+      },
+      {
+        "flavour": "Cookies & Cream",
+        "weight": "1kg",
+        "price": 4650,
+        "mrp": 5100,
+        "available": false,
+        "image": null
+      },
+      {
+        "flavour": "Cookies & Cream",
+        "weight": "2kg",
+        "price": 8799,
+        "mrp": 10200,
+        "available": false,
+        "image": null
+      },
+      {
+        "flavour": "Cookies & Cream",
+        "weight": "4kg",
+        "price": 16000,
+        "mrp": 18600,
+        "available": false,
+        "image": null
+      },
+      {
+        "flavour": "Hazelnut Mocha",
+        "weight": "1kg",
+        "price": 5100,
+        "mrp": null,
+        "available": false,
+        "image": null
+      },
+      {
+        "flavour": "Hazelnut Mocha",
+        "weight": "2kg",
+        "price": 8799,
+        "mrp": 10200,
+        "available": false,
+        "image": null
+      },
+      {
+        "flavour": "Hazelnut Mocha",
+        "weight": "4kg",
+        "price": 16000,
+        "mrp": 18600,
+        "available": false,
+        "image": null
+      },
+      {
+        "flavour": "Saffron Pistachio Kulfi",
+        "weight": "1kg",
+        "price": 4650,
+        "mrp": 5100,
+        "available": false,
+        "image": null
+      },
+      {
+        "flavour": "Saffron Pistachio Kulfi",
+        "weight": "2kg",
+        "price": 8799,
+        "mrp": 10200,
+        "available": false,
+        "image": null
+      },
+      {
+        "flavour": "Saffron Pistachio Kulfi",
+        "weight": "4kg",
+        "price": 16000,
+        "mrp": 18600,
+        "available": false,
+        "image": null
+      },
+      {
+        "flavour": "Birthday Cake",
+        "weight": "1kg",
+        "price": 4650,
+        "mrp": 5100,
+        "available": false,
+        "image": null
+      },
+      {
+        "flavour": "Birthday Cake",
+        "weight": "2kg",
+        "price": 8799,
+        "mrp": 10200,
+        "available": false,
+        "image": null
+      },
+      {
+        "flavour": "Birthday Cake",
+        "weight": "4kg",
+        "price": 16000,
+        "mrp": 18600,
+        "available": false,
+        "image": null
+      }
+    ],
+    "body": "ISO 90 is an ultra-pure whey isolate with zero added sugar and zero added carbs. It delivers maximum protein per scoop, perfect for cutting, fat loss, and lean muscle."
+  },
+  {
+    "handle": "nitro-whey",
+    "title": "Nitro Whey Protein",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0938/6934/3021/files/21.webp?v=1764795766"
+    ],
+    "options": [
+      {
+        "name": "FLAVOUR",
+        "position": 1,
+        "values": [
+          "Chocolate Milkshake",
+          "Cookies & Cream"
+        ]
+      },
+      {
+        "name": "WEIGHT",
+        "position": 2,
+        "values": [
+          "2.27kg"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "flavour": "Chocolate Milkshake",
+        "weight": "2.27kg",
+        "price": 8400,
+        "mrp": 9300,
+        "available": false,
+        "image": "https://cdn.shopify.com/s/files/1/0938/6934/3021/files/21.webp?v=1764795766"
+      },
+      {
+        "flavour": "Cookies & Cream",
+        "weight": "2.27kg",
+        "price": 8400,
+        "mrp": 9300,
+        "available": false,
+        "image": null
+      }
+    ],
+    "body": "Nitro Whey is a high-performance whey isolate with 3g creatine + 2g glutamine for strength, power, and fast muscle recovery."
+  },
+  {
+    "handle": "build-whey",
+    "title": "Build Whey Protein",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0938/6934/3021/files/22_e3d1a10c-9e23-4623-bd40-485d1035296a.webp?v=1764795762",
+      "https://cdn.shopify.com/s/files/1/0938/6934/3021/files/23_99fcb457-f168-477c-a961-96d124312368.webp?v=1764795763"
+    ],
+    "options": [
+      {
+        "name": "FLAVOUR",
+        "position": 1,
+        "values": [
+          "Cappuccino",
+          "Double Chocolate",
+          "Mango Milkshake"
+        ]
+      },
+      {
+        "name": "WEIGHT",
+        "position": 2,
+        "values": [
+          "1kg",
+          "2kg",
+          "4kg"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "flavour": "Cappuccino",
+        "weight": "1kg",
+        "price": 3999,
+        "mrp": 4800,
+        "available": false,
+        "image": null
+      },
+      {
+        "flavour": "Cappuccino",
+        "weight": "2kg",
+        "price": 7500,
+        "mrp": 8700,
+        "available": false,
+        "image": null
+      },
+      {
+        "flavour": "Cappuccino",
+        "weight": "4kg",
+        "price": 14100,
+        "mrp": 16500,
+        "available": false,
+        "image": null
+      },
+      {
+        "flavour": "Double Chocolate",
+        "weight": "1kg",
+        "price": 3999,
+        "mrp": 4800,
+        "available": false,
+        "image": "https://cdn.shopify.com/s/files/1/0938/6934/3021/files/23_99fcb457-f168-477c-a961-96d124312368.webp?v=1764795763"
+      },
+      {
+        "flavour": "Double Chocolate",
+        "weight": "2kg",
+        "price": 7500,
+        "mrp": 8700,
+        "available": false,
+        "image": "https://cdn.shopify.com/s/files/1/0938/6934/3021/files/23_99fcb457-f168-477c-a961-96d124312368.webp?v=1764795763"
+      },
+      {
+        "flavour": "Double Chocolate",
+        "weight": "4kg",
+        "price": 14100,
+        "mrp": 16500,
+        "available": false,
+        "image": "https://cdn.shopify.com/s/files/1/0938/6934/3021/files/23_99fcb457-f168-477c-a961-96d124312368.webp?v=1764795763"
+      },
+      {
+        "flavour": "Mango Milkshake",
+        "weight": "1kg",
+        "price": 3999,
+        "mrp": 4800,
+        "available": false,
+        "image": null
+      },
+      {
+        "flavour": "Mango Milkshake",
+        "weight": "2kg",
+        "price": 7500,
+        "mrp": 8700,
+        "available": false,
+        "image": null
+      },
+      {
+        "flavour": "Mango Milkshake",
+        "weight": "4kg",
+        "price": 14100,
+        "mrp": 16500,
+        "available": false,
+        "image": null
+      }
+    ],
+    "body": "Build Whey combines whey concentrate with whey isolate plus added glutamine for enhanced recovery. It delivers high protein with low carbs, making it perfect for athletes who want to build lean muscle."
+  },
+  {
+    "handle": "premium-whey",
+    "title": "Premium Whey Protein",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0938/6934/3021/files/25.webp?v=1764795758",
+      "https://cdn.shopify.com/s/files/1/0938/6934/3021/files/24_38135881-0b57-4623-8b2f-5a5c4d4ba0c8.webp?v=1764795760"
+    ],
+    "options": [
+      {
+        "name": "FLAVOUR",
+        "position": 1,
+        "values": [
+          "Chocolate",
+          "Kesar Kulfi",
+          "Rose Milk"
+        ]
+      },
+      {
+        "name": "WEIGHT",
+        "position": 2,
+        "values": [
+          "1kg",
+          "2kg",
+          "4kg"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "flavour": "Chocolate",
+        "weight": "1kg",
+        "price": 3099,
+        "mrp": 3600,
+        "available": false,
+        "image": "https://cdn.shopify.com/s/files/1/0938/6934/3021/files/25.webp?v=1764795758"
+      },
+      {
+        "flavour": "Chocolate",
+        "weight": "2kg",
+        "price": 6000,
+        "mrp": 6600,
+        "available": false,
+        "image": "https://cdn.shopify.com/s/files/1/0938/6934/3021/files/25.webp?v=1764795758"
+      },
+      {
+        "flavour": "Chocolate",
+        "weight": "4kg",
+        "price": 11100,
+        "mrp": 12300,
+        "available": false,
+        "image": "https://cdn.shopify.com/s/files/1/0938/6934/3021/files/25.webp?v=1764795758"
+      },
+      {
+        "flavour": "Kesar Kulfi",
+        "weight": "1kg",
+        "price": 3099,
+        "mrp": 3600,
+        "available": false,
+        "image": null
+      },
+      {
+        "flavour": "Kesar Kulfi",
+        "weight": "2kg",
+        "price": 6000,
+        "mrp": 6600,
+        "available": false,
+        "image": null
+      },
+      {
+        "flavour": "Kesar Kulfi",
+        "weight": "4kg",
+        "price": 11100,
+        "mrp": 12300,
+        "available": false,
+        "image": null
+      },
+      {
+        "flavour": "Rose Milk",
+        "weight": "1kg",
+        "price": 3099,
+        "mrp": 3600,
+        "available": false,
+        "image": null
+      },
+      {
+        "flavour": "Rose Milk",
+        "weight": "2kg",
+        "price": 6000,
+        "mrp": 6600,
+        "available": false,
+        "image": null
+      },
+      {
+        "flavour": "Rose Milk",
+        "weight": "4kg",
+        "price": 11100,
+        "mrp": 12300,
+        "available": false,
+        "image": null
+      }
+    ],
+    "body": "Premium Whey delivers high-quality whey protein concentrate with digestive enzymes for smooth absorption and muscle recovery in delicious flavours."
+  },
+  {
+    "handle": "raw-unflavored",
+    "title": "Raw+ Whey Protein Concentrate",
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0938/6934/3021/files/34.webp?v=1764795757"
+    ],
+    "options": [
+      {
+        "name": "Flavour",
+        "position": 1,
+        "values": [
+          "Unflavoured"
+        ]
+      },
+      {
+        "name": "WEIGHT",
+        "position": 2,
+        "values": [
+          "1kg"
+        ]
+      }
+    ],
+    "variants": [
+      {
+        "flavour": "Unflavoured",
+        "weight": "1kg",
+        "price": 2800,
+        "mrp": 3099,
+        "available": false,
+        "image": "https://cdn.shopify.com/s/files/1/0938/6934/3021/files/34.webp?v=1764795757"
+      }
+    ],
+    "body": "RAW+ is a clean whey protein concentrate with digestive enzymes, zero added sugar, and a smooth taste. Ideal for daily protein intake and faster muscle recovery."
+  }
+]
