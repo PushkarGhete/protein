@@ -38,6 +38,7 @@ export function Home() {
         <div className="wrap hero-grid">
           <div>
             <p className="eyebrow light">Authorised Legendary Sports Nutrition</p>
+            <p className="owner-chip">Owner <strong>Vijay Damode</strong></p>
             <h1>
               Fuel the
               <span> grind.</span>
@@ -74,8 +75,8 @@ export function Home() {
 
       <div className="marquee" aria-hidden="true">
         <div>
-          <span>Authorised Legendary Sports Nutrition · Free delivery in Buldhana · Cash on delivery · Karale Layout counter · </span>
-          <span>Authorised Legendary Sports Nutrition · Free delivery in Buldhana · Cash on delivery · Karale Layout counter · </span>
+          <span>Owner Vijay Damode · Authorised Legendary Sports Nutrition · Free delivery in Buldhana · Cash on delivery · Karale Layout counter · </span>
+          <span>Owner Vijay Damode · Authorised Legendary Sports Nutrition · Free delivery in Buldhana · Cash on delivery · Karale Layout counter · </span>
         </div>
       </div>
 
@@ -130,6 +131,7 @@ export function Home() {
           <h2>Strong brand. Honest shop.</h2>
           <p>Majboot is the Buldhana counter for Legendary Sports Nutrition. The tub you order is the tub on the shelf in Karale Layout.</p>
           <ul>
+            <li><strong>Vijay Damode</strong><span>Owner of Majboot Protein Shop.</span></li>
             <li><strong>Authorised distributor</strong><span>Same products the brand lists.</span></li>
             <li><strong>Cash on delivery</strong><span>Pay the rider, or pay at the counter.</span></li>
             <li><strong>{settings.address}</strong><span>{settings.phone}</span></li>

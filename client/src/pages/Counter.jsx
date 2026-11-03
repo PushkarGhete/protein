@@ -31,6 +31,7 @@ export function Counter() {
     <main>
       <section className="wrap page">
         <p className="eyebrow">Majboot Protein Shop</p>
+        <p className="owner-chip on-light">Owner <strong>Vijay Damode</strong></p>
         <h1 className="display">A counter in Karale Layout. A shelf you can order from.</h1>
         <div className="about-grid">
           <p>

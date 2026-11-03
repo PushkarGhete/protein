@@ -90,6 +90,7 @@ export function StoreLayout() {
         <div className="wrap footer-grid">
           <div>
             <img src="/logo.png" alt="Majboot Protein Shop" />
+            <p className="owner-foot">Owner <strong>Vijay Damode</strong></p>
             <p>Authorised counter for Legendary Sports Nutrition in Buldhana.</p>
           </div>
           <div>
@@ -135,6 +136,7 @@ export function StoreLayout() {
               </Link>
             ))}
             <a href={telLink(settings.whatsapp)}>{settings.phone}</a>
+            <p className="owner-chip on-light">Owner <strong>Vijay Damode</strong></p>
           </nav>
         </div>
       )}
